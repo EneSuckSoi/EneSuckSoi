@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development.**
 
+- 📫 My Portfolio Website <a href="https://linkedin.com/in/enesucksoi/" target="blank"><Enes /></a>
+
 - 📫 How to reach me **enes.aksoy.15.ea@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
